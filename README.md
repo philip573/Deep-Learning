@@ -35,7 +35,7 @@ How It Works:
 Project Structure:
     image_classifier_project
     index.html        → Main HTML file
-    style.css         → CSS styling with bar visuals
+    style.css         → CSS styling with bar visuals 
     script.js         → JS logic with TensorFlow and animations
 How to Run:
     *Clone or download the repository
